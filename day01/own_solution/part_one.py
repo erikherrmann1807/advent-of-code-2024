@@ -25,4 +25,4 @@ class Solution:
 
 if __name__ == '__main__':
     solution = Solution()
-    solution.readInput('input.txt')
+    solution.readInput('../input.txt')
